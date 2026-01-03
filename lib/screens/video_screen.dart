@@ -14,7 +14,6 @@ class VideoScreen extends StatelessWidget {
       backgroundColor: Colors.black,
       body: Stack(
         children: [
-          // Mock Video Content (Immersive Background)
           Container(
             width: double.infinity,
             height: double.infinity,
